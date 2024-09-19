@@ -2,10 +2,6 @@
 
 This repo contains an introduction and example data to familiarise yourself with antigenic cartography.
 
-## Introductory presentation
-
-Here's an introductory [presentation](antigenic-cartography-introduction.pdf).
-
 ## Software
 
 [Racmacs](https://acorg.github.io/Racmacs/index.html). Either install from CRAN or from [GitHub](https://github.com/acorg/Racmacs).
